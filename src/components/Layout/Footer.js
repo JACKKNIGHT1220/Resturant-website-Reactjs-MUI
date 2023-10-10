@@ -39,7 +39,7 @@ const Footer = () => {
             },
           }}
         >
-          All Rights Reserved &copy; Techinfo YT
+          Made with ❤️ by Mukul
         </Typography>
       </Box>
     </>
